@@ -8,6 +8,12 @@ import pl.itse.listener.example.CustomEventPublisher;
 import pl.itse.listener.example.CustomException;
 import pl.itse.litener.config.AppConfig;
 
+/*
+* Simple example how to create event listener in spring application
+* 
+* @author Borys Pawluczuk
+*/
+
 @SpringBootApplication
 public class Main {
 
